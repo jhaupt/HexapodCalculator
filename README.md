@@ -1,5 +1,5 @@
 # HexapodCalculator
-C# Linux program to calculate the leg lengths of a Stewart Platform (hexapod) given the platform angle and position relative to the base.
+C# Linux program to calculate the leg lengths of a Stewart Platform (hexapod) given the platform angle and position relative to the base. Why wasn't this written in Python? Because I used this to learn C#.
 
 To run the binary:
 
