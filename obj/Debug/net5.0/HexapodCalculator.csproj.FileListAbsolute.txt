@@ -1,0 +1,16 @@
+/home/jhaupt/Projects/BNL/BMX/HexapodCalculator/bin/Debug/net5.0/HexapodCalculator
+/home/jhaupt/Projects/BNL/BMX/HexapodCalculator/bin/Debug/net5.0/HexapodCalculator.deps.json
+/home/jhaupt/Projects/BNL/BMX/HexapodCalculator/bin/Debug/net5.0/HexapodCalculator.runtimeconfig.json
+/home/jhaupt/Projects/BNL/BMX/HexapodCalculator/bin/Debug/net5.0/HexapodCalculator.runtimeconfig.dev.json
+/home/jhaupt/Projects/BNL/BMX/HexapodCalculator/bin/Debug/net5.0/HexapodCalculator.dll
+/home/jhaupt/Projects/BNL/BMX/HexapodCalculator/bin/Debug/net5.0/ref/HexapodCalculator.dll
+/home/jhaupt/Projects/BNL/BMX/HexapodCalculator/bin/Debug/net5.0/HexapodCalculator.pdb
+/home/jhaupt/Projects/BNL/BMX/HexapodCalculator/obj/Debug/net5.0/HexapodCalculator.csprojAssemblyReference.cache
+/home/jhaupt/Projects/BNL/BMX/HexapodCalculator/obj/Debug/net5.0/HexapodCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/jhaupt/Projects/BNL/BMX/HexapodCalculator/obj/Debug/net5.0/HexapodCalculator.AssemblyInfoInputs.cache
+/home/jhaupt/Projects/BNL/BMX/HexapodCalculator/obj/Debug/net5.0/HexapodCalculator.AssemblyInfo.cs
+/home/jhaupt/Projects/BNL/BMX/HexapodCalculator/obj/Debug/net5.0/HexapodCalculator.csproj.CoreCompileInputs.cache
+/home/jhaupt/Projects/BNL/BMX/HexapodCalculator/obj/Debug/net5.0/HexapodCalculator.dll
+/home/jhaupt/Projects/BNL/BMX/HexapodCalculator/obj/Debug/net5.0/ref/HexapodCalculator.dll
+/home/jhaupt/Projects/BNL/BMX/HexapodCalculator/obj/Debug/net5.0/HexapodCalculator.pdb
+/home/jhaupt/Projects/BNL/BMX/HexapodCalculator/obj/Debug/net5.0/HexapodCalculator.genruntimeconfig.cache
