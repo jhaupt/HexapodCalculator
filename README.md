@@ -4,7 +4,7 @@ C# Linux program to calculate the leg lengths of a Stewart Platform (hexapod) gi
 To run the binary:
 
 1. Download /bin/Debug/net5.0/HexapodCalculator to directory of your choice
-2. Install dependencies: $sudo apt install dotnet-runtime-5.0
+2. Install dependency: $sudo apt install dotnet-runtime-5.0
 3. Make HexapodCalculator executable if it isn't already: $sudo chmod +x ./HexapodCalculator
 4. Run it: $./HexapodCalculator
 
